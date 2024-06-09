@@ -49,4 +49,4 @@
     <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=green" />
 </div>
 
-![snake gif](https://github.com/Sashka11111/Sashka11111/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sashka11111/Sashka11111/blob/output/github-contribution-grid-snake.svg)
