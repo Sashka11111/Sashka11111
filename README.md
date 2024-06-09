@@ -18,7 +18,7 @@
   </picture>
 
 * 👨‍🎓 Computer science student from Ukraine
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Sashka-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:lamcevasaska@gmail.com)]
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Sashka-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.liamtseva.oleksandra@student.uzhnu.edu.ua)
  
  <h2> I’m currently learning... </h2>
   
