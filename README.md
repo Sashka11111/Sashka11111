@@ -11,17 +11,14 @@
 
 </div><h1 align="center">Hi there, I'm <a target="_blank">Sashka</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
-    <img src="images/astronomy.gif" width="30%" align="right" />
-  </picture>
-
-* 👨‍🎓 Computer science student from Ukraine
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Sashka-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.liamtseva.oleksandra@student.uzhnu.edu.ua)
+<a href="https://ibb.co/DfsV2zX"><img src="https://i.ibb.co/DfsV2zX/966c87d7abe6bc4ff7510aeb5b63ee30.jpg" alt="Profile Picture" border="0" align="right"/></a>
+<p>👨‍🎓 Computer science student from Ukraine</p>
+<p>📫 How to reach me: <a href="mailto:c.liamtseva.oleksandra@student.uzhnu.edu.ua"><img src="https://img.shields.io/badge/-Sashka-D14836?style=flat&logo=gmail&logoColor=white" /></a></p>
+<p>💻 I'm passionate about developing innovative software solutions and learning new technologies.</p>
+<p>🔗 In my free time, I like to read books, listen to music and learn new technologies or programming languages.</p>
  
  <h2> I’m currently learning... </h2>
-  
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,11 +29,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+<div style="text-align: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sashka11111&theme=gruvbox" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sashka11111&theme=gruvbox" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sashka11111&theme=gruvbox" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sashka11111&theme=gruvbox" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sashka11111&theme=gruvbox" alt="Profile Details" />
+</div>
 
-<h2>Profile summary </h2>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sashka11111)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sashka11111)
 
 <a href="https://github.com/jgphilpott/github-readme-activity-graph">
     <picture>
