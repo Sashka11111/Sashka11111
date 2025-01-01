@@ -22,13 +22,15 @@
 🎯 My goal is to become a professional software developer and bring meaningful projects to life.
  
 # 💻 Tech Stack:
-<div id="header" align="center">
- 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,17 +40,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
- 
-<div id="header" align="center">
+<div id="header" align="center">  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sashka11111&theme=gruvbox" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sashka11111&theme=gruvbox" alt="Productive Time" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sashka11111&theme=gruvbox" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sashka11111&theme=gruvbox" alt="Most Commit Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sashka11111&theme=gruvbox" alt="Profile Details" />
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-</div>
+ </div>
 
 <a href="https://github.com/jgphilpott/github-readme-activity-graph">
     <picture>
@@ -59,4 +57,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=green" />
+ 
+ # ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
