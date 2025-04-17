@@ -4,20 +4,18 @@
   <img src="img/header.jpg" alt="Header image">
 </p>
 
-<div align="center">
+🎓 Student from Ukraine, currently diving into the world of programming
 
-  <p>🎓 Student from Ukraine, currently diving into the world of programming.</p>
+💻 I enjoy learning and working with modern technologies, from web development to desktop applications.
 
-  <p>💻 I enjoy learning and working with modern technologies, from web development to desktop applications.</p>
+🐘 Currently focused on mastering PHP with a keen interest in backend development.
 
-  <p>🐘 Currently focused on mastering PHP with a keen interest in backend development.</p>
-
-  <p>🎯 My goal is to become a professional software developer and bring meaningful projects to life.</p>
+🎯 My goal is to become a professional software developer and bring meaningful projects to life.
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=500&lines=My+Tech+Stack;Tools+and+Technologies+I+Love!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=500&lines=My+Tech+Stack;Tools+and+Technologies!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -31,17 +29,17 @@
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                       |                                                                                                                    |                                                                                                                             |                                                                                                                      |
 
 <div id="header" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sashka11111&theme=radical" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sashka11111&theme=radical" alt="Productive Time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sashka11111&theme=radical" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sashka11111&theme=radical" alt="Most Commit Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sashka11111&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sashka11111&theme=gruvbox" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sashka11111&theme=gruvbox" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sashka11111&theme=gruvbox" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sashka11111&theme=gruvbox" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sashka11111&theme=gruvbox" alt="Profile Details" />
  </div>
 
 <a href="https://github.com/jgphilpott/github-readme-activity-graph">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=gruvbox&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=CC0000&line=CC0000&point=CC0000&bg_color=2F2F2F">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=CC0000&line=CC0000&point=CC0000&bg_color=FFFFFF">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=gruvbox&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
 
