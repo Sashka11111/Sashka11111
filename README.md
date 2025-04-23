@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Oleksandra </h1>
 
-<p align="center">
-  <img src="img/header.jpg" alt="Header image">
-</p>
-
 🎓 Student from Ukraine, currently diving into the world of programming
 
 💻 I enjoy learning and working with modern technologies, from web development to desktop applications.
@@ -44,5 +40,5 @@
 </a>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=CC0000" />
+    <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=green&style=flat" />
 </div>
