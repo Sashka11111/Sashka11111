@@ -1,4 +1,4 @@
-<img src="img/header.gif" alt="Header image">
+<img src="img/header.png" alt="Header image">
 
 🌟 Student from Ukraine, currently diving into the world of programming.
 I enjoy learning and working with modern technologies, from web development to desktop applications.
