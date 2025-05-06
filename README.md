@@ -1,4 +1,4 @@
-<img src="img/header-logo.png" alt="Header image">
+<img src="img/header.png" alt="Header image">
 
 <details>
   <summary>👩‍💻 About Me</summary>
