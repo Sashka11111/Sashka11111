@@ -1,18 +1,13 @@
 <img src="img/header.png" alt="Header image">
 
-## 🌟 About Me
+<details>
+  <summary>👩‍💻 About Me</summary>
 
-I'm a student from **Ukraine**, passionate about the world of programming.
+I'm a student from **Ukraine**, passionate about the world of programming. I enjoy learning and working with modern technologies — from **web development** to **desktop applications**. Currently focused on **mastering PHP**, with a strong interest in **fullstack development**. My goal is to become a **professional software developer** and bring **meaningful projects** to life. Let's connect and build something great together!
 
-💡 I enjoy learning and working with modern technologies — from **web development** to **desktop applications**.
+</details>
 
-💻 Currently focused on **mastering PHP**, with a strong interest in **fullstack development**.
-
-🎯 My goal is to become a **professional software developer** and bring **meaningful projects** to life.
-
-📫 Let's connect and build something great together!
-
-## 🚀 My Tech Stack
+<h1 align = 'center'>🚀 My Tech Stack</h1>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
