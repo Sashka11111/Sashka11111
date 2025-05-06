@@ -1,7 +1,8 @@
-<img src="img/header.png" alt="Header image">
+<img src="img/header-logo.png" alt="Header image">
 
 <details>
   <summary>👩‍💻 About Me</summary>
+
 I'm a student from **Ukraine**, passionate about the world of programming. I enjoy learning and working with modern technologies — from **web development** to **desktop applications**. Currently focused on **mastering PHP**, with a strong interest in **fullstack development**. My goal is to become a **professional software developer** and bring **meaningful projects** to life. Let's connect and build something great together!
 
 </details>
