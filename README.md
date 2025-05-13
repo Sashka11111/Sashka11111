@@ -97,7 +97,7 @@ Let's connect and build something great together!
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity" width="100%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-compact&area=true&hide_border=true&custom_title=My%20GitHub%20Activity&point=006400" width="100%" alt="Activity Graph">
 </div>
 
 <!-- PROFILE VIEWS WITH STYLE -->
