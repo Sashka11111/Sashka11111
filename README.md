@@ -97,10 +97,10 @@ Let's connect and build something great together!
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-compact&area=true&hide_border=true&custom_title=My%20GitHub%20Activity&point=006400" width="100%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashka11111&theme=github-compact&area=true&hide_border=true&custom_title=My%20GitHub%20Activity&point=10a310" width="100%" alt="Activity Graph">
 </div>
 
 <!-- PROFILE VIEWS WITH STYLE -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=0a4000&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sashka11111&color=10a310&style=flat" alt="Profile Views" />
 </div>
