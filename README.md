@@ -78,6 +78,15 @@ Let's connect and build something great together!
   </tr>
 </table>
 
+<!-- ADDITIONAL FRAMEWORKS -->
+<div align="center">
+  <h3>Frameworks & Libraries</h3>
+
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
+</div>
 <div align="center">
   <h1>📊 GitHub Statistics</h1>
 
